@@ -21,7 +21,7 @@ gemaakt op: 12-12-2016
         .tg .tg-yw4l{vertical-align:top}
         .colored {background-color:orange;}
     </style>
-    <title></title>
+    <title>betaald tabel</title>
 </head>
 <body>
 <table class="tg">

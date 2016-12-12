@@ -1,2 +1,2 @@
 # lab4
-A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
+Rules: Deadline: zaterdag 17 december 20:00 of being fucked :D

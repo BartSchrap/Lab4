@@ -1,0 +1,28 @@
+header{
+    width:100%;
+    height: 50px;
+    text-align: center;
+    color:white;
+    background-color: black;
+    padding-top:2%;
+}
+body{
+    margin:0;
+    text-align: center;
+    background-color: black;
+    color:white;
+}
+TR{
+   background-color: white;
+    color:black;
+}
+TH{
+    background-color: white;
+    color:black;
+}
+footer{
+    margin-top:10%;
+    text-align: center;
+    background-color: black;
+    color:white;
+}

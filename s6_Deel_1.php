@@ -1,6 +1,6 @@
 <body>
-<div class="pijltjelinks"> <a href="section9-2016.html"><span>&#8592</span></a></div>
-<div class="pijltjerechts"> <a href="section9-2017.html"><span>&#8594</span></a></div>
+<div class="pijltjelinks"> <a href="S5_instructor-admin.html"><span>&#8592;</span></a></div>
+<div class="pijltjerechts"> <a href="S7_betaal-tabel.php"><span>&#8594;</span></a></div>
 
 <h2>Lijst van instructoren</h2>
 <ol>
@@ -25,5 +25,6 @@
         <p></p>
 
         <button type="button">Betalen!</button>
-
+<div class="pijltjelinks"> <a href="section9-2016.html"><span>&#8592</span></a></div>
+<div class="pijltjerechts"> <a href="section9-2017.html"><span>&#8594</span></a></div>
 </body>

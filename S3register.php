@@ -1,3 +1,7 @@
+<!--
+Team 8
+Gerben & Ramon
+-->
 <?php
 if(isset($_POST['submit']))
 {

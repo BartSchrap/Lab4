@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <!--
-author: Rick Bouma
+team: 7
+author: Rick Bouma, Jeroen Mager
 gemaakt op: 12-12-2016
 -->
 <html>

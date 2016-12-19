@@ -1,7 +1,7 @@
 <body>
 <div class="pijltjelinks"> <a href="S5_instructor-admin.html"><span>&#8592;</span></a></div>
 <div class="pijltjerechts"> <a href="S7_betaal-tabel.php"><span>&#8594;</span></a></div>
-
+<a href="S1_homepage.html">Terug naar homepage</a>
 <h2>Lijst van instructoren</h2>
 <ol>
 <li>Weert Gilders</li>

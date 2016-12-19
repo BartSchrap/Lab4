@@ -1,4 +1,9 @@
 <!doctype html>
+<!--
+team: 7
+author: Rick Bouma, Jeroen Mager
+gemaakt op: 12-12-2016
+-->
 <html lang="nl">
 <head>
     <link rel="stylesheet" href="style.css">
@@ -11,7 +16,6 @@
 <body>
     <form>
         <p>Prijs in bitcoin is: <script>document.write(bitcoin)</script></p>
-
         <input type="text" id="email" placeholder="email"><br>
 
         <?php

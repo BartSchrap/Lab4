@@ -1,3 +1,7 @@
+<!--
+Team 8
+Gerben & Ramon
+-->
 <?php
 $email = htmlspecialchars($_POST['email']);
 $wachtwoord = htmlspecialchars($_POST['password']);

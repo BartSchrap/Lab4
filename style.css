@@ -78,7 +78,11 @@
 .pijltjerechts {
 	margin-left: 98%;
 	margin-top: -1%;
+    color:red;
+    background-color: red;
 }
-
+.pijltjelinks{
+background-color: red;
+}
 
 /*EINDE SECTION 9 CSS*/

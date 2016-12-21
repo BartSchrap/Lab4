@@ -1,0 +1,87 @@
+/*Sybren en Renan */
+/* SECTION 1 CSS */
+#body1{
+	background:url("achtergrond.jpg") no-repeat;
+	background-size: 100%;
+
+}
+#Vak1{	
+	text-align:center;
+	color:white;
+}
+
+#knop1{
+	display: inline;
+	margin-left:4%;
+}
+
+#bedrijf1{
+	text-align:center;
+	color:white;
+}
+
+#alfa1{
+	margin-left: 30%;
+	margin-top: 100px;
+	width: 40%;
+}
+/* EINDE SECTION 1 CSS */
+
+
+/* SECTION 3 CSS*/
+#body3{
+	background:url("achtergrond.jpg") no-repeat;
+	background-size: 100%;
+}
+#form3{
+	margin-left: 40%;
+	margin-top:10%;
+}
+
+/*EINDE SECTION 3 CSS*/
+
+
+
+/* SECTION 9 CSS*/
+#header9{
+    width:100%;
+    height: 50px;
+    text-align: center;
+    color:white;
+	background:url("achtergrond.jpg") no-repeat;
+	background-size: 100%;
+    padding-top:2%;
+}
+#body9{
+    margin:0;
+    text-align: center;
+   	background:url("achtergrond.jpg") no-repeat;
+	background-size: 100%;
+    color:white;
+}
+#tr9{
+   background-color: white;
+    color:black;
+}
+#th9{
+    background-color: white;
+    color:black;
+}
+#footer9{
+    margin-top:10%;
+    text-align: center;
+    background-color: black;
+    color:white;
+}
+
+.pijltjerechts {
+	margin-left: 98%;
+	margin-top: -1%;
+    color:red;
+    background-color: red;
+}
+.pijltjelinks{
+background-color: red;
+}
+
+/*EINDE SECTION 9 CSS*/

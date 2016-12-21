@@ -1,0 +1,170 @@
+commit 9f09ac199dced296307be4f60f90667b887e5d5b
+Author: unknown <j.mager@student.alfa-college.nl>
+Date:   Mon Dec 12 10:01:31 2016 +0100
+
+    hessel wou een titel
+
+commit f480fb0f5fd8096390b4152eac56f99840d1f258
+Author: Sybren-alfa <b.moes@student.alfa-college.nl>
+Date:   Mon Dec 12 09:58:31 2016 +0100
+
+    Delete opdrachtgit.css
+
+commit b501fb194ea44953e037ca5a324e8217cddfe8ab
+Author: Sybren-alfa <b.moes@student.alfa-college.nl>
+Date:   Mon Dec 12 09:54:28 2016 +0100
+
+    Delete klikhierniet.txt
+
+commit 1a67f0ab17804ec85e2b3eabe4a00fae963d1b34
+Merge: 10dc4d6 9b17f7d
+Author: John Mestebeld <John Mestebeld>
+Date:   Mon Dec 12 09:52:28 2016 +0100
+
+    Merge branch 'master' of https://github.com/Sybren-alfa/Lab4
+
+commit 10dc4d647ecabd7ca21098a9031381f7bf0e2313
+Author: John Mestebeld <John Mestebeld>
+Date:   Mon Dec 12 09:52:07 2016 +0100
+
+    doe dan
+
+commit 9b17f7dd9a37d54b90d7a49bd888bf915dc7c2a9
+Merge: 46f74ef 5d33a69
+Author: Sybren-alfa <b.moes@student.alfa-college.nl>
+Date:   Mon Dec 12 09:50:26 2016 +0100
+
+    Merge branch 'master' of https://github.com/Sybren-alfa/Lab4
+
+commit 46f74efe1bbb2c5e505a541a5b3e3ed66dd997aa
+Author: Sybren-alfa <b.moes@student.alfa-college.nl>
+Date:   Mon Dec 12 09:50:20 2016 +0100
+
+    lees dit eerst...
+
+commit 5d33a69f6ec5dbec165bf085ea239bc5137b1698
+Author: johnmestebeld <jhm97@live.nl>
+Date:   Mon Dec 12 09:50:09 2016 +0100
+
+    Update Meldkamerspel.url
+
+commit 523393bc2f6fd0dd895609c2e2aedd8f2996665c
+Merge: b6ffc06 37cf95c
+Author: Sybren-alfa <b.moes@student.alfa-college.nl>
+Date:   Mon Dec 12 09:48:36 2016 +0100
+
+    Merge branch 'master' of https://github.com/Sybren-alfa/Lab4
+
+commit 37cf95cca91e76daf44f38bf4bfae4589cfe676d
+Author: UserNameUndetected <th.luisman@student.alfa-college.nl>
+Date:   Mon Dec 12 09:48:37 2016 +0100
+
+    Update Meldkamerspel.url
+
+commit b6ffc068332ee4f52e3aa6119bb16e644f2f94b4
+Author: Sybren-alfa <b.moes@student.alfa-college.nl>
+Date:   Mon Dec 12 09:48:31 2016 +0100
+
+    lees dit eerst...
+
+commit bd3dca7405e718477ce220fea98122895d6f904a
+Merge: 1f240d4 c6fa2c2
+Author: John Mestebeld <John Mestebeld>
+Date:   Mon Dec 12 09:45:56 2016 +0100
+
+    Merge branch 'master' of https://github.com/Sybren-alfa/Lab4
+
+commit 1f240d429a4797f1bc997e03f56b70436982db0f
+Author: John Mestebeld <John Mestebeld>
+Date:   Mon Dec 12 09:45:37 2016 +0100
+
+    lekker spelen tof
+
+commit c6fa2c268268daa39b2f7a42f591792cb727e661
+Merge: 7c79e6d 3308127
+Author: Sybren-alfa <b.moes@student.alfa-college.nl>
+Date:   Mon Dec 12 09:45:25 2016 +0100
+
+    Merge branch 'master' of https://github.com/Sybren-alfa/Lab4
+
+commit 7c79e6da94c65231aa31e58b4da45970f212725e
+Author: Sybren-alfa <b.moes@student.alfa-college.nl>
+Date:   Mon Dec 12 09:45:19 2016 +0100
+
+    rules
+
+commit 8d83022328b01c9336ce5375295d50b234921e4a
+Merge: e4c6c4a e87ca3b
+Author: Sybren-alfa <b.moes@student.alfa-college.nl>
+Date:   Mon Dec 12 09:43:32 2016 +0100
+
+    rules
+
+commit 330812740ec7ebc8f604ba50152c266a33def8d4
+Author: John Mestebeld <John Mestebeld>
+Date:   Mon Dec 12 09:43:29 2016 +0100
+
+    sybren is blij
+
+commit e4c6c4aad877999e3beebc24615a3fd0f148e441
+Author: Sybren-alfa <b.moes@student.alfa-college.nl>
+Date:   Mon Dec 12 09:42:14 2016 +0100
+
+    rules
+
+commit e87ca3b4eda0982d4e9ffa594cc295163b4a36fd
+Merge: 9f1ba64 a3fe6f5
+Author: John Mestebeld <John Mestebeld>
+Date:   Mon Dec 12 09:41:56 2016 +0100
+
+    Merge branch 'master' of https://github.com/Sybren-alfa/Lab4
+
+commit 9f1ba6453afeac12747e57be2e2a52b8f0697f57
+Author: John Mestebeld <John Mestebeld>
+Date:   Mon Dec 12 09:40:16 2016 +0100
+
+    Snelle interventie hup hup
+
+commit a3fe6f5c8b416e80d852a498394a5e13eebbe4ec
+Merge: 13b4ef6 2ea6c03
+Author: unknown <j.mager@student.alfa-college.nl>
+Date:   Mon Dec 12 09:37:30 2016 +0100
+
+    Merge branch 'master' of https://github.com/Sybren-alfa/Lab4
+
+commit 2ea6c0369a9815ef794d7315b09b095dc695cd11
+Author: larshofsink <larshofsink@live.nl>
+Date:   Mon Dec 12 09:37:17 2016 +0100
+
+    hoi
+
+commit 13b4ef66ddce31fe1f8c59c47261f30a4f6dd12f
+Author: unknown <j.mager@student.alfa-college.nl>
+Date:   Mon Dec 12 09:36:24 2016 +0100
+
+    sectie 7 initial commit
+
+commit 98c76b1fad3e8bf3e4f44307b142b8c166beeb86
+Merge: 5982c3c 4f0c679
+Author: Hessel Bultsma <h.bultsma@student.alfa-college.nl>
+Date:   Mon Dec 12 09:28:43 2016 +0100
+
+    Merge branch 'master' of https://github.com/Sybren-alfa/Lab4
+
+commit 5982c3c8914be848ee5899b7805b5a05d2aa6811
+Author: Hessel Bultsma <h.bultsma@student.alfa-college.nl>
+Date:   Mon Dec 12 09:28:34 2016 +0100
+
+    html en css bestanden voor instructor-admin pagina's toegevoegd
+
+commit 4f0c6799d7c7d2e74a1b390f6b574340530a1c5c
+Author: UserNameUndetected <th.luisman@student.alfa-college.nl>
+Date:   Mon Dec 12 09:27:02 2016 +0100
+
+    Update README.md
+
+commit 404b4c24abe0529eb2ea36f9b86764dcd275a72b
+Author: Sybren-alfa <b.moes@student.alfa-college.nl>
+Date:   Mon Dec 12 09:19:58 2016 +0100
+
+    First commit

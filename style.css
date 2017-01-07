@@ -27,6 +27,24 @@
 }
 /* EINDE SECTION 1 CSS */
 
+/*Section 2 CSS*/
+/*Algemene stijl voor pagina*/
+#wrapper2{
+	text-align: center;
+	width: 80%;
+	background-color: white;
+	margin-left: 10%;
+	border: 3px solid black;
+	border-radius: 20px;
+	margin-top: 10px;
+}
+/*Stijl voor input form voor email address*/
+#emailForm{
+	width: 80%;
+	text-align: center;
+	height: 30px;
+	margin-bottom: 20px;
+}
 
 /* SECTION 3 CSS*/
 #body3{

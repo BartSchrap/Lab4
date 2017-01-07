@@ -36,12 +36,17 @@
 	background-color: rgba(0,0,0,0.6);
 	border-radius: 20px;
 	width: 400px;
-	height: 250px;
+	height: 275px;
 	position: absolute;
 	color: white;
 	top:50px;
 	left: 70%;
 	text-align: center;
+}
+
+#S2_titel{
+	padding-right: 80px;
+	padding-bottom: 5px;
 }
 
 #S2_maincontent a{
@@ -55,7 +60,7 @@
 
 #S2_email, #S2_submit{
 	position: absolute;
-	top:200px;
+	top:225px;
 }
 
 #S2_email{

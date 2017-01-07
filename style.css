@@ -26,25 +26,55 @@
 	width: 40%;
 }
 /* EINDE SECTION 1 CSS */
+/* Styling section 2 */
+#S2_background{
+	background: url("background_S2.jpg") no-repeat;
+	background-size: 100%;
+}
 
-/*Section 2 CSS*/
-/*Algemene stijl voor pagina*/
-#wrapper2{
-	text-align: center;
-	width: 80%;
-	background-color: white;
-	margin-left: 10%;
-	border: 3px solid black;
+#S2_maincontent{
+	background-color: rgba(0,0,0,0.6);
 	border-radius: 20px;
-	margin-top: 10px;
-}
-/*Stijl voor input form voor email address*/
-#emailForm{
-	width: 80%;
+	width: 400px;
+	height: 250px;
+	position: absolute;
+	color: white;
+	top:50px;
+	left: 70%;
 	text-align: center;
-	height: 30px;
-	margin-bottom: 20px;
 }
+
+#S2_maincontent a{
+	color: white;
+	text-decoration: none;
+}
+
+#S2_maincontent p{
+	margin: 20px 20px 20px 20px;
+}
+
+#S2_email, #S2_submit{
+	position: absolute;
+	top:200px;
+}
+
+#S2_email{
+	left: 40px;
+	width: 180px;
+}
+
+#S2_submit{
+	left: 250px;
+}
+
+#lang{
+	position: absolute;
+	top:5px;
+	right: 20px;
+}
+
+#nl{padding-right: 5px;}
+#en{padding-left: 5px}
 
 /* SECTION 3 CSS*/
 #body3{

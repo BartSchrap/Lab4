@@ -18,6 +18,8 @@ gemaakt op: 12-12-2016
         <p>Prijs in bitcoin is: <script>document.write(bitcoin)</script></p>
         <input type="text" id="email" placeholder="email"><br>
 
+		
+		
         <?php
         function generateRandomNumber($length) {
             $characters = '0123456789';
@@ -28,7 +30,7 @@ gemaakt op: 12-12-2016
             }
             return $randomString;
         }
-        echo generateRandomNumber(10);
+        echo generateRandomNumber(9);
         ?><br>
         <input type="submit" value="betalen">
 
